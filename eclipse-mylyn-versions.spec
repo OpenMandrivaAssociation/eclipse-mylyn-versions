@@ -7,7 +7,7 @@
 Name: eclipse-mylyn-versions
 Summary: Eclipse Mylyn Versions
 Version: 3.5.1
-Release: 1
+Release: 3
 License: EPL
 URL: http://eclipse.org/mylyn/versions/
 
