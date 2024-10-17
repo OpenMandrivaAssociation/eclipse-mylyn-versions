@@ -9,7 +9,7 @@ Summary: Eclipse Mylyn Versions
 Version: 3.5.1
 Release: 3
 License: EPL
-URL: http://eclipse.org/mylyn/versions/
+URL: https://eclipse.org/mylyn/versions/
 
 # bash fetch-eclipse-mylyn-versions.sh
 Source0: eclipse-mylyn-versions-R_3_5_1-fetched-src.tar.bz2
